@@ -2,7 +2,7 @@
 
 This code was written for a talk at the Sydney AltNet Meetup; [Building a web component library in an hour](https://www.meetup.com/Sydney-Alt-Net/events/ftrmfsyccmblc/) in September, 2021
 
-Video recording link to be added soon.
+The recording of [the session is on YouTube](https://www.youtube.com/watch?v=RoY3N_nDs0M).
 
 ### Details
 
